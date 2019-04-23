@@ -46,7 +46,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |Bjorn Sahlin|[GitHub](https://github.com/bjsahlin/wwdc2019Playground)||UIKit, AVFoundation|Submitted|
 |[Carol Chen](https://carolchen.me)|[GitHub](https://github.com/kipply/sorting_algorithm_visualization_and_aurlization_in_a_swift_playground)|[YouTube](https://www.youtube.com/watch?v=-fTBJMBzVng)||Submitted|
 |[Carolina Niglio](https://carolinaniglio.webflow.io)|[GitHub](https://github.com/carolinaniglio/ColorTheoryPlaygroundBook-WWDC2019)||SpriteKit|Accepted|
-|[Cecily Kerns](https://twitter.com/Cecily_Kerns)|[GitHub](https://github.com/CecilyKerns/WWDC/)|[YouTube](https://youtu.be/lls2CAP4ugw)|SpriteKit, UIKit, PlaygroundBooks, Accessibility|Submitted|
+|[Cecily Kerns](https://twitter.com/Cecily_Kerns)|[GitHub](https://github.com/CecilyKerns/WWDC/)|[YouTube](https://youtu.be/lls2CAP4ugw)|SpriteKit, UIKit, PlaygroundBooks, Accessibility|Rejected|
 |[Celal Dogan Kaya](https://twitter.com/celaldogankaya)||[YouTube](https://youtu.be/PfozBCsdNhI)|CoreML, Vision, ARKit, Create ML|Accepted|
 |[Charles Truluck](https://www.twitter.com/charlestruluck_)|[GitHub](https://github.com/charlestruluck/WWDC19)||CommonCrypto, UIKit, SceneKit|Accepted|
 |[Chase Clark](https://www.instagram.com/chaseclark_dev)|[GitHub](https://github.com/ChaseClark-Dev/Draw-ML)||CoreML, UIKit, CreateML, CoreQuartz|Submitted|
